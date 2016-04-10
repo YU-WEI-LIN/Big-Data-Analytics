@@ -1,1 +1,2 @@
-# 巨量資料分析
+# [Assignment 1] Data Coolection and Persistence
+
