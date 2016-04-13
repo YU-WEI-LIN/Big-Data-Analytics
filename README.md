@@ -9,8 +9,8 @@
 ## Data Sources
 
 * API Resource: Spark for Python Developers.
-* Topic:
-* Search Key Words:
+* Topic: NBA美國職籃消息
+* Search Key Words: nba
 
 
 
