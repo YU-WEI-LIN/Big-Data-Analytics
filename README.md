@@ -11,12 +11,17 @@
 + text       : 文章內容
 + source:資料來源
 + truncated:
++ in_reply_to_status_id
++ in_reply_to_status_id_str
++ in_reply_to_user_id
++ in_reply_to_user_id_str
++ in_reply_to_screen_name
 
 ######user
-+ geo
-+ coordinates
-+ place
-+ contributors
++ geo:地理標記
++ coordinates:座標
++ place:地點
++ contributors:contributor mode
 
 ######retweeted_status
 + is_quote_status
