@@ -3,10 +3,17 @@
 ## Data Format
 
 #### JSON
-+ created_at => twitter發文時間
-+ id         => 文章ID
-+ id_str     => 
-+ text       => 文章內容
+
+##### Object
++ created_at : twitter發文時間
++ id         : 文章ID
++ id_str     : 
++ text       : 文章內容
++ source:資料來源
++ truncated:
+
+######user
+
 
 
 ## Data Sources
