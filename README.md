@@ -13,6 +13,27 @@
 + truncated:
 
 ######user
++ geo
++ coordinates
++ place
++ contributors
+
+######retweeted_status
++ is_quote_status
++ retweet_count
++ favorite_count
+
+######entities
+######extended_entities
++ favorited
++ retweeted
++ possibly_sensitive
++ filter_level
++ lang
++ timestamp_ms
++ @version
++ @timestamp
+
 
 
 
