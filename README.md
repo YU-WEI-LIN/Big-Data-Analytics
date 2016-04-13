@@ -11,11 +11,11 @@
 + text       : 文章內容
 + source:資料來源
 + truncated:
-+ in_reply_to_status_id
-+ in_reply_to_status_id_str
-+ in_reply_to_user_id
-+ in_reply_to_user_id_str
-+ in_reply_to_screen_name
++ in_reply_to_status_id:此Tweet資料是否為答覆，是，則顯示原始Tweet’s ID
++ in_reply_to_status_id_str:此Tweet資料是否為答覆，是，則顯示原始Tweet’s ID(字串格式)
++ in_reply_to_user_id:此Tweet資料是否為答覆，是，則顯示原始Tweet’s作者的ID
++ in_reply_to_user_id_str:此Tweet資料是否為答覆，是，則顯示原始Tweet’s作者的ID(字串格式)
++ in_reply_to_screen_name:此Tweet資料是否為答覆，是，則顯示原始Tweet’s作者的screen name
 
 ######user
 + geo:地理標記
@@ -34,7 +34,7 @@
 + retweeted
 + possibly_sensitive
 + filter_level
-+ lang
++ lang:語言
 + timestamp_ms
 + @version
 + @timestamp
@@ -44,7 +44,7 @@
 
 ## Data Sources
 
-* API Resource: Spark for Python Developers.
+* API Resource: Elasticsearch-Learn
 * Topic: NBA美國職籃消息
 * Search Key Words: nba
 
