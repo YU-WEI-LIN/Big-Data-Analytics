@@ -24,9 +24,9 @@
 + contributors:contributor mode
 
 ######retweeted_status(轉發狀態)
-+ is_quote_status:
++ is_quote_status:是否被引用
 + retweet_count:此Tweet文章被轉發次數
-+ favorite_count:
++ favorite_count:在Twitter使用者中有多少人喜歡此Tweet文章
 
 ######entities
 ######extended_entities
