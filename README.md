@@ -30,14 +30,14 @@
 + retweet_count:此Tweet文章被轉發次數
 + favorite_count:在Twitter使用者中有多少人喜歡此Tweet文章
 
-######entities
+######entities(Entities provide metadata and additional contextual information about content posted on Twitter.)
 
 ######extended_entities(影音型態資料)
 
-+ favorited:
-+ retweeted
++ favorited:收藏
++ retweeted:轉發
 + possibly_sensitive
-+ filter_level
++ filter_level:過濾等級
 + lang:語言
 + timestamp_ms
 + @version
