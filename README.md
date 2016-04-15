@@ -36,12 +36,12 @@
 
 + favorited:收藏
 + retweeted:轉發
-+ possibly_sensitive
++ possibly_sensitive:該Tweet文章是否有包含一些內容或認定為敏感內容的影音的URL
 + filter_level:過濾等級
 + lang:語言
-+ timestamp_ms
-+ @version
-+ @timestamp
++ timestamp_ms:該Tweet文章被創建的時間(以字串表示)
++ @version:Twitter版本
++ @timestamp:該Tweet文章被創建的時間
 
 
 
